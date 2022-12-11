@@ -8,7 +8,7 @@ A search engine for movies
   _I tried to make it available through github pages, but github pages only support static webpages_
 * Inside templates folder 📂, open [html][HTMLfile] file in your browser and it will work.
 * If you face any difficulties or want to share feedback, [mailme][Mail].
-* For quick fixes, search on [duckduckgo](https://duckduckgo.com/) or google(https://www.google.com/).
+* For quick fixes, search on [duckduckgo](https://duckduckgo.com/) or [google](https://www.google.com/).
 
 ### Clone
 ```
